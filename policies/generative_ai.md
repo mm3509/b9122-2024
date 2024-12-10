@@ -60,6 +60,10 @@ See these pictures:
 
 ![](../images/pycharm2.png)
 
+On Replit.com, disable AI code completion: click on AI at the bottom left, then uncheck "Enable"
+
+![](../images/Replit-turn-off-AI-completion.png)
+
 ## You can use automatic (non-AI) code completion
 
 Most IDEs suggest code for you to complete. For example, if you defined a variable `transactions = []`, and later you start typing the same letters, e.g. `tr`, the IDE will propose completing it to `transactions` and you can use the TAB key to accept this suggestion. The IDE does so by maintaining a table of existing variables and functions in the background.
