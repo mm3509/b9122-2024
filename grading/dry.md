@@ -84,6 +84,10 @@ but the following in-place function is shorter and does not repeat the variable 
 transactions.sort()
 ```
 
+### Write functions under 20 lines
+
+Your functions should be small, under 20 lines of code.
+
 ## examples from assignment 1
 
 ### exercise 1.1
