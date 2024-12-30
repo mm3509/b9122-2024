@@ -86,6 +86,8 @@ Many trading systems, e.g. at hedge funds or trading desks, need such an algorit
 
 For example inputs and outputs (including if you cannot make a profit), please see the doc-tests. You need to apply defensive programming and have at least 6 doc-tests in total.
 
+__Note__: this is Kadane's algorithm, or the ["Maximum subarray problem"](https://en.wikipedia.org/wiki/Kadane%27s_Algorithm).
+
 # Exercise 6: C (25 points)
 
 This exercise is an example of "dynamic programming", where recursion is a natural solution. In this example, you do not need to worry about time efficiency, accumulators, or memoization; the benchmark on Autograder is from a trivial algorithm without any speed optimization.

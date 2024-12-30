@@ -1,0 +1,1 @@
+Cross-entropy loss and negative-log-likelihood penalizes misclassifications infinitely more than squared loss: if a single observation is predicted to be in the wrong category with a probability tending to one, cross-entropy loss goes to infinity, while squared loss goes to one. So logistic regression is more adapted to classification problems than ordinary least squares.

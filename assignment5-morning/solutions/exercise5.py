@@ -41,3 +41,20 @@ def find_best_sublist(returns):
                 best_end = end
                                
     return (best_start, best_end, best_return)
+
+
+def find_best_sublist_fast(returns):
+
+    # This function shows an example of linear complexity.
+    # Doc-tests and defensive programming omitted for brevity.
+
+    min_price = float('inf')
+    max_profit = 0
+
+    for price in prices:
+        if price < min_price:
+            min_price = price 
+        else:
+            max_profit = max(max_profit, price - min_price)  
+
+    return max_profit
