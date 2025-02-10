@@ -124,11 +124,11 @@ If a TA deducted points from your submission, you can see the exact reason why a
 
 Sometimes the TA's add specific comments to help you improve. On Gradescope, click on your submission, then on "code" at the top right, and you'll see a "speech bubble" with comments the TA left for you, as in this picture:
 
-![](../images/TA-comments1.png)
+![](../../.images/TA-comments1.png)
 
 If you click on the exercise and scroll down, you'll see the comment that the TA left for you:
 
-![](../images/TA-comments2.png)
+![](../../.images/TA-comments2.png)
 
 ## FAQ
 
@@ -144,7 +144,7 @@ Click on "Gradescope" on the left bar on Canvas and use your Columbia email.
 
 Gradescope seems to have a bug and shows a page saying `The autograder hasn't finished running yet.` well after the 10 minute timeout:
 
-![](../images/Gradescope_unresponsive.png)
+![](../../.images/Gradescope_unresponsive.png)
 
 In this case, please submit again and Gradescope will try to grade again.
 

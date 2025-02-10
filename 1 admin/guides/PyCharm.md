@@ -1,6 +1,10 @@
 # How can I disable AI completion?
 
+To disable AI completion in PyCharm, check the specific guide for PyCharm.
 
+For Replit.com (which we use for C), follow this image:
+
+<img src="../../.images/Replit-turn-off-AI-completion.png" />
 
 # Installing PyCharm
 
@@ -71,35 +75,35 @@ print(a)
 
 At the top right, click on the button with the Play symbol to run it:
 
-<img src="images/play_button.png" />
+<img src="../../.images/play_button.png" />
 
 Under the file name "scratch.py", you have line numbers for the lines you typed; click on the number 2. A red circle should appear and indicates a breakpoint: Python will execute code and stop at this point:
 
-<img src="images/debug_button.png" />
+<img src="../../.images/debug_button.png" />
 
 Click on the bug symbol next to the Play button:
 
-<img src="images/play_button.png" />
+<img src="../../.images/play_button.png" />
 
 The first line gets highlighted and execution stopped at your breakpoint. You are now inside the debugger:
 
-<img src="images/debugger.png" />
+<img src="../../.images/debugger.png" />
 
 In the bottom left of the program, there is a window called "Threads & Variables":
 
-<img src="images/variables.png" />
+<img src="../../.images/variables.png" />
 
 Click on the box that says "Evaluate expression", then type and run this code: `a = None`.
 
-<img src="images/inside_debugger.png" />
+<img src="../../.images/inside_debugger.png" />
 
 Hit the button "Play" at the left, which means "Continue execution":
 
-<img src="images/continue.png" />
+<img src="../../.images/continue.png" />
 
 Switch to the console tab, to the right of "Threads & Variables":
 
-<img src="images/debugging_result.png" />
+<img src="../../.images/debugging_result.png" />
 
 You should now see that the Python program printed "None" instead of "Hello world".
 
