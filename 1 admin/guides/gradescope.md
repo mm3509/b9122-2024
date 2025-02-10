@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 If a TA deducted points from your submission, you can see the exact reason why and improve your code. For example, in this question, the student lost 0.5 points for bad variable naming:
 
-![](../images/TA-comments3.png)
+![](../../.images/TA-comments3.png)
 
 Sometimes the TA's add specific comments to help you improve. On Gradescope, click on your submission, then on "code" at the top right, and you'll see a "speech bubble" with comments the TA left for you, as in this picture:
 
