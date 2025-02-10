@@ -53,7 +53,7 @@ In binary classification, what is the main advantage of using cross-entropy loss
 
 This dataset contains data on fundamentals of companies in the S&P 500.
 
-Complete the function to predict the logarithm of the stock price, using as dependent variables:
+Complete the function to predict the logarithm of the stock price, using as independent variables:
 
 - the dividend yield
 - the earnings/share ratio
@@ -137,7 +137,9 @@ $ bash exercise_bash.sh $HOME/Downloads-missing
 
 Please remember to submit a file with name `marketing.txt` for Autograder to consider the right exercises and assign the correct points.
 
-Read the [paper by Rubin and Waterman (2016)](https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27645750?seq=12) on using logistic regression and propensity score matching. Make sure you understand the details of the procedure.
+This exercise is based on [this short paper by Rubin and Waterman (2016)](https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27645750?seq=12), "Estimating the Causal Effects of Marketing Interventions Using Propensity Score Methodology". You have access to it on JStor through Columbia University.
+
+The paper explains how you can use logistic regression and propensity score matching to infer causal effects on observational (non-experimental) data. If you took the Advanced Analysis class with Kamel Jedid, you may have seen this method; if not, you can learn it from the paper. Make sure you understand the details of the procedure.
 
 The dataset is a small an simulated version of the data used in that paper. The categorical variables like the doctors' geographical region and specialty are already in 0/1 format, using one-hot encoding.
 
@@ -161,6 +163,8 @@ Causal estimation: 4.487603305785124
 Please remember to submit a file with name `afternoon.txt` for Autograder to consider the right exercises and assign the correct points.
 
 Portfolio optimization is an important topic for investment management firms, who want to optimize their portfolio and maximize their returns. The mean-variance portfolio theory from Harry Markowitz is the most well-known and well-studied portfolio optimization problem.
+
+This exercise is based on [this short paper by Martin Haugh (2016)](https://www.columbia.edu/~mh2078/FoundationsFE/MeanVariance-CAPM.pdf), "Mean-variance optimization and the CAPM".
 
 This Python file computes the optimal mean-variance portfolio from stock returns, a target yearly return, and a risk-free yearly interest rate. It uses the solution to assignment 4, which downloads stock price data from Yahoo finance and computes the daily stock returns. You should use the function `diarize_return()` to convert a return from yearly to daily.
 
