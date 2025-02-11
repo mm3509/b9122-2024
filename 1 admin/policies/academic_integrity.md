@@ -1,12 +1,18 @@
 # Academic integrity
 
-This version: October 14th, 2024.
-
 This guide contains my policy on academic integrity. You'll have to read and pledge to abide by this policy to gain access to assignments and exams.
 
 I have a separate guide for generative AI.
 
 Violating the guidelines in this document is forbidden, violates the [CBS Honor Code](https://students.business.columbia.edu/office-of-student-affairs/academic-advising-and-student-success/academic-integrity), and I will report suspected instances of plagiarism. Please contact me if you have any questions about this policy.
+
+## You must follow the CBS Honor code
+
+The [Columbia Business School Honor Code](https://students.business.columbia.edu/office-of-student-affairs/academic-essentials/policy-library/academic-policies/academic-integrity/honor-code) calls on all members of the School community to adhere to and uphold the notions of truth, integrity, and respect both during their time in school, and throughout their careers as productive, moral, and caring participants in their companies and communities around the world. All students are subject to the Honor Code for all of their academic work. Failure to comply with the Honor Code may result in [Dean's Discipline](https://students.business.columbia.edu/office-of-student-affairs/academic-essentials/academic-integrity/policy-library/disciplinary-process). Here you can review [examples of Academic Misconduct](https://students.business.columbia.edu/office-of-student-affairs/academic-essentials/policy-library/academic-policies/academic-integrity/honor-code) which may result in discipline. The Honor Code applies to all students and is also found on the [EMBA Honor Code page](https://students.business.columbia.edu/emba/policies/honor-code).
+
+## You must not distribute these materials
+
+Course materials (videos, assignments, problem sets, etc) are for your use in this course only. You may not upload them to external sites, share them with students outside of this course, or post them for public commentary without the instructor's permission.
 
 ## You must not collaborate
 

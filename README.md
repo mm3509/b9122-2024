@@ -16,7 +16,7 @@ Here you can find all the material for the class (except for lecture slides, whi
 
 The hidden folder `.images` contains images used in several places in the repository.
 
-**Autograder** is an important feature of this course: you submit your code, and my code grades your code. To try it, create a free account on gradescope.com and provide entry code `PY8YXN`. You'll be able to submit code to the practice assessments (assignments and exams) and get immediate feedback on your code.
+**Autograder** is an important feature of this course: you submit your code, and my code grades your code. To try it, create a free account on [gradescope.com](https://www.gradescope.com) and provide entry code `PY8YXN`. You'll be able to submit code to the practice assessments (assignments and exams) and get immediate feedback on your code.
 
 Please contact me if you have any questions.
 
