@@ -71,15 +71,19 @@ When I write messages for you on GradeScope, I take care to print them in lines 
 
 Here, we take a string and return a list of lines containing the same contents, but where each line has 80 characters or less. This is called "refilling". Some common sense rules are:
 
-- only split a word across two list elements if it's over 80 characters long. Otherwise, split it at a the last space in the first 80 characters
-- do not return a space at the start of an element, because it looks ugly.
+- Only split a word across two list elements if it's over 80 characters long. Otherwise, split it at a the last space in the first 80 characters.
+
+- Do not return a space at the start of an element, because it looks ugly.
 
 You should write a recursive "helper" function that does this work, and a non-recursive "wrapper" function that handles the edge cases and calls the helper/recursive function. Gradescope will ONLY call the wrapper function.
 
 In order to write short doc-tests, the functions also take an argument `max_chars`, set at 80 by default. This way, you do not need to write 80 characters in the doc-tests to check the functionality.
 
-You can use this Python string method:
-- `haystack.rfind(needle)` finds the last index of `needle` in `haystack`; it returns -1 if `needle` is not found. It's similar to find but reversed, from the end of `haystack`.
+You can use these Python string methods:
+
+- `haystack.rfind(needle)` finds the last index of `needle` in `haystack`; it returns -1 if `needle` is not found. It's similar to `.find()` but reversed, from the end of `haystack`.
+
+- `sentence.strip()` removes spaces from the beginning and the end of the string `sentence`.
 
 # Exercise 4: NumPy manipulation (12 points)
 

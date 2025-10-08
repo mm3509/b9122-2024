@@ -1,6 +1,6 @@
 def get_grade(uni, grades):
     """
-    Find the student's UNI in a dictionary, and returns its grad.
+    Find the student's UNI in a dictionary, and returns its grade.
     
     >>> grades = {"mm3509": {"gsb": "MMorin26", "grade": 42}}
     >>> get_grade("mm3509", grades)
