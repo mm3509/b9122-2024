@@ -1,16 +1,3 @@
----
-title: 'Midterm exam (take-home, afternoon section)'
-author: 'Miguel Morin, (c) 2024'
-geometry: margin=2cm
-numbersections: false
-header-includes:
-- \pagenumbering{gobble}
-- \setlength{\parskip}{\baselineskip}
-- \usepackage{hyperref}
-- \usepackage{xcolor}
-- \newcommand{\link}[1]{{\color{blue}\underline{\href{#1}{#1}}}}
----
-
 # Midterm exam (take-home, afternoon section)
 
 Bonus questions are optional, but will increase your grade up to a maximum of 100 points. They serve as insurance **within** the exam and compensate when you get less than full marks on another question. They DO NOT serve as insurance **across** exams and DO NOT compensate when you get less than full marks on another exam.
